@@ -36,10 +36,19 @@ I put much thought into how I would incite the player into exploring the level, 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
-You should restructure the headings below to match the order they appear in your level.
+A storyboard detailing the introduction of the prefab of spikes.
+
+![Spikes Storyboard](DocImages/spikesb.png)
+
+A storyboard detailing the introduction of the prefabs, acid and moving platforms.
+
+![Acid and Moving Platform Storyboard](DocImages/acidsb.png)
+
+A storyboard detailing the introduction of the prefab passthrough platform.
+
+![Passthrough Platform](DocImages/passsb.png)
 
 ### 2.1. Spikes
 

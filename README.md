@@ -95,7 +95,7 @@ No additional words are necessary for this section (any words should only be wit
 
 ### 3.2. Level Map – Section 1
 
-![Level Map 1](DocImages/lvlmap1.png)
+![Level Map 1](DocImages/lvlmap1.PNG)
 
 ### 3.3.	Level Map – Section 2
 

@@ -3,14 +3,6 @@
 ### Name: [Lachlan Scott]
 ### Student number: [47396903] 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
@@ -36,7 +28,7 @@ I put much thought into how I would incite the player into exploring the level, 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
+Storyboards can be combined when multiple mechanics are introduced within a single encounter.
 
 A storyboard detailing the introduction of the prefab of spikes.
 
@@ -96,8 +88,6 @@ The last prefab in the level is the passthrough platform, I placed this prefab l
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 ![Molecule Diagram](DocImages/molediagram.png)
@@ -115,9 +105,15 @@ No additional words are necessary for this section (any words should only be wit
 ![Level Map 3](DocImages/lvlmap3.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.).
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+Iterative game design has helped me tremendously throughout the process of designing each encounter within my level. Iterative game design is a ritual of trial and error of sorts to measure how engaging and fun an encounter is by highlighting the balance between how easy and difficult a level is. If a level is too easy, then the player will feel disengaged and bored with the game as it provides too little challenge to stimulate them. However if a level is too hard then the player may become frustrated and irritated by the level, leaving them wondering if they should continue with the game, unwilling to engage with a high challenge game and forcing them to discern if their time is better spent elsewhere. Iterative game design has been a tremendous help for me to balance the scales of fun, helping me to recognise when an encounter is either lacking or overflowing with challenge. Take for example the first encounter, my initial design as shown below,
+![Paper Prototype Encounter 1](DocImages/pp1.jpg)
+was quite rudimentary, shaping for me the general layout of the encounter and also the initial positions of the enemies throughout the scene. Only after playtesting the level did I find it too easy to avoid the chompers on the low ground, by utilising iterative game design, I realised that by providing an environmental challenge with the spikes it forces the player to think more carefully about their approach. In the second encounter, I utilised iterative game design to expand on my initial prototype, as shown below,
+![Paper Prototype Encounter 2](DocImages/pp2.jpg)
+where I expanded more on the right side, adding a bottom section to further the alternative pathways that I was focused on implementing. This ended up being the correct course of action as the cave in the bottom right of the second encounter ended up becoming pivotal to the game henceforth, providing a checkpoint and tying in to the end of the third encounter. Speaking of the third encounter, whilst the end design of this encounter didn’t differ much from the initial concept,
+![Paper Prototype Encounter 3](DocImages/pp3.jpg)
+I’d like to point out the slight change in grouping the chompers up and placing a platform midway through the pit in the right-hand side, although this is a minor change it ends up creating an alternative pathway for the player and rewards their exploration with the discovery of a health pickup, much needed for the fight just ahead.
 
 
 
